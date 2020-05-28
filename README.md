@@ -1,8 +1,5 @@
 This is a clone of the repository from  rudydelorenzo/beelicious
 
-# beelicious
-Want to send your friends the script to the bee movie?
-
 ## Requirements
 * You must have Python installed, it's available at `https://www.python.org/downloads/`.
 * You must have the Pynput library installed. It can be installed by running `pip install pynput` _or_ `pip3 install pynput` if you're running Python 3.
