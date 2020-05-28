@@ -1,3 +1,5 @@
+This is a clone of the repository from  rudydelorenzo/beelicious
+
 # beelicious
 Want to send your friends the script to the bee movie?
 
